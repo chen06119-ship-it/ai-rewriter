@@ -1,0 +1,12 @@
+{
+  "name": "ai-paraphraser",
+  "version": "1.0.0",
+  "description": "A simple AI paraphraser using DeepSeek API and Vercel serverless functions.",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
